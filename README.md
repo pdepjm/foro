@@ -1,6 +1,6 @@
 # Foro de Consultas
 
-En este repositorio vamos a manejar las consultas de Diseño de Sistemas de los jueves/viernes.
+En este repositorio vamos a manejar las consultas de Paradigmas de la Programacion de los jueves mañana.
 
 ## Cómo usarlo
 
